@@ -1,2 +1,26 @@
-# Cybersecurity-Portfolio
-A collection of hands-on cybersecurity labs and technical reports.
+<h1>Hi, I'm Israel </h1>
+
+<h2>👨‍💻 Cybersecurity Portfolio:</h2>
+
+- <b>This repository contains hands-on cybersecurity labs demonstrating practical experience in: (AlgoExpert)</b>
+  - Security Risk Assessment
+  - Vulnerability Management
+  - Incident Response
+  - Log Analysis
+  - Security Awareness
+  - Policy Development
+- <b>About me</b>
+  - I am currently completing structured cybersecurity training focused on real-world tools and analyst-level responsibilities. This portfolio reflects documented hands-on work.
+
+  
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
